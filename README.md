@@ -26,7 +26,7 @@ This is a simple Flask-based authentication API that allows users to sign up and
 1. Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/joelnyongesa/Flask-Auth-API.git
 ```
 
 2. Create a virtual environment and activate it
